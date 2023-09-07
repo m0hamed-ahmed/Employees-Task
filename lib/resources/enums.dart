@@ -1,0 +1,1 @@
+enum ScreenMode {loading, error, empty, done}
